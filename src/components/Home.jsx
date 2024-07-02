@@ -1,6 +1,5 @@
 import React from 'react'
 import Pizza from "../assets/website/pizza.png"
-import { MdDescription } from 'react-icons/md'
 
 
 const ServicesData = [
