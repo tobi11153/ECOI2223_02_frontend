@@ -70,7 +70,7 @@ const PedidoForm = () => {
   const handleSubmit = async (event) => {
       event.preventDefault();
       try {
-          const response = await axios.post('http://localhost:5000/api/pedidos', {
+          const response = await axios.post('https://ecoi-2223-02-backend.vercel.app/api/pedidos', {
               cliente,
               endereco,
               tipo_pizza: `${selectedPizza.name} (${selectedSize})`,
