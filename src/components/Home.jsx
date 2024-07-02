@@ -1,3 +1,6 @@
+// Gabriel Souza Santos
+
+
 import React from 'react';
 import Pizza from "../assets/website/pizza.png";
 import Slider from 'react-slick';

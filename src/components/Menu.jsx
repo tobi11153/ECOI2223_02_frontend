@@ -1,3 +1,6 @@
+// Gabriel Souza Santos
+
+
 import React, { useState } from 'react';
 import Logo from "../assets/website/logo.jpg";
 import { FaPizzaSlice, FaBars } from "react-icons/fa";
